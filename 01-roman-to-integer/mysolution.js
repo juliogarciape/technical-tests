@@ -34,8 +34,8 @@ var romanToInt = function(s) {
 
 //** =========== Result =========== */
 
-console.log(romanToInt('XXXV'))
-console.log(romanToInt('III'))
-console.log(romanToInt('MCMXCIV'))
-console.log(romanToInt('LVIII'))
-console.log(romanToInt('XV'))
+console.log(romanToInt('XXXV')) //! 35
+console.log(romanToInt('III')) //! 3
+console.log(romanToInt('MCMXCIV')) //! 1994
+console.log(romanToInt('LVIII')) //! 58
+console.log(romanToInt('XV')) //! 15
